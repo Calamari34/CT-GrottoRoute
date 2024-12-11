@@ -18,7 +18,7 @@ If you want to do palace, the process is the same but you want to set the starti
 
 Shift to confirm or press your set keybind to cancel.
 
-It'll be saved to gemstone route 8 so just open polar select a random route then route 8 and itll load.
+
 
 that's it!
 I spent 30 minutes on this, so if someone would send me a better route to use for this i'll finish it with customised route selection, other grottos, ect.
