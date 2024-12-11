@@ -23,4 +23,4 @@ It'll be saved to gemstone route 8 so just open polar select a random route then
 that's it!
 I spent 30 minutes on this, so if someone would send me a better route to use for this i'll finish it with customised route selection, other grottos, ect.
 
-Can also be found at https://chattriggers.com/modules/v/PolarMansionRouting
+
